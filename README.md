@@ -2,7 +2,7 @@
 
 ## Step to run project
 
-1. Open credit-card-validation
+1. go to credit-card-validation folder in terminal
 
 2. npm install
 
