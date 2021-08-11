@@ -1,5 +1,4 @@
-import React , {useState} from "react";
-// import useForm from "../useForm";
+import React , {useState} from "react"
 import { Button, Form, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./CreditCardForm.css";
@@ -8,7 +7,6 @@ import "react-credit-cards/es/styles-compiled.css";
 
 
 const CreditCardForm = () => {
-  // const { handleChange, handleFocus, values } = useForm();
 
   const [values, setValues] = useState({
     cardName: '',
